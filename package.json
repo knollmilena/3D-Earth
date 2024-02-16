@@ -1,0 +1,14 @@
+{
+  "name": "3d",
+  "version": "1.0.0",
+  "description": "my first 3d site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Knoll Milena Alekseevna",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.161.0"
+  }
+}
